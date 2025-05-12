@@ -1,0 +1,24 @@
+['ls_shovel'] = {
+    label = 'shovel',
+    weight = 100
+},
+
+['ls_copper_shovel'] = {
+    label = 'Copper shovel',
+    weight = 100
+},
+
+['ls_iron_shovel'] = {
+    label = 'Iron shovel',
+    weight = 100
+},
+
+['ls_silver_shovel'] = {
+    label = 'Silver shovel',
+    weight = 100
+},
+
+['ls_gold_shovel'] = {
+    label = 'Gold shovel',
+    weight = 100
+},
