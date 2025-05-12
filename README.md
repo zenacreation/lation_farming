@@ -6,7 +6,7 @@
     <br>
 </h1>
 
-<h4 align="center">The best mining script available on FiveM.</h4>
+<h4 align="center">The best farming script available on FiveM.</h4>
 
 <p align="center">
     <img src="https://img.shields.io/github/stars/iamlation/lation_mining?logo=github">
