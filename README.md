@@ -20,8 +20,8 @@
     <a href="#support">Support</a> •
     <a href="#more-scripts">More Scripts</a>
 </p>
+[![lation farming preview](https://cdn.discordapp.com/attachments/1367232259190427751/1371570074212892733/i121332mage.png)]
 
-https://cdn.discordapp.com/attachments/1367232259190427751/1371570074212892733/i121332mage.png?ex=68239dac&is=68224c2c&hm=51fbe032384f7f5a9c8d5830431255590639d2d222e0abb19bd81eae0e72689b&
 https://cdn.discordapp.com/attachments/1367232259190427751/1371570074619609209/i1212mage.png?ex=68239dac&is=68224c2c&hm=065cb4165db40234b0d6768ad5d6518e8c1279c17eb7089bced61d6c2abdf63d&
 
 ## 🔑 Key Features
